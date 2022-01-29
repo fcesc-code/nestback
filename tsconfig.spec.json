@@ -1,9 +1,9 @@
 /* To learn more about this file see: https://angular.io/config/tsconfig. */
+/*"types": ["jasmine", "node"] this was making the compiler complain */
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
-    "outDir": "./out-tsc/spec",
-    "types": ["jasmine", "node"]
+    "outDir": "./out-tsc/spec"
   },
   "files": ["src/test.ts", "src/polyfills.ts"],
   "include": ["src/**/*.spec.ts", "src/**/*.d.ts"]
