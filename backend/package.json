@@ -1,7 +1,7 @@
 {
   "name": "nestjs-course-backend",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "NestJs Course",
   "license": "MIT",
   "scripts": {
@@ -10,8 +10,8 @@
     "clean": "rimraf dist",
     "run-populate-db": "node ./dist/rest-api/populate-db.js",
     "populate-db": "run-s clean build run-populate-db",
-    "start:local": "tsc-watch -p tsconfig.build.json --onSuccess \"node dist/rest-api/src/main.js\"",
     "server": "run-s clean start:local",
+    "start:local": "tsc-watch -p tsconfig.build.json --onSuccess \"node dist/rest-api/src/main.js\"",
     "start:debug": "tsc-watch -p tsconfig.build.json --onSuccess \"node --inspect-brk dist/rest-api/src/main.js\"",
     "start:prod": "node dist/rest-api/src/main.js",
     "lint": "tslint -p tsconfig.json -c tslint.json",
