@@ -206,8 +206,6 @@ Check out the how to report a vulnerability in our supported versions in the [SE
 
 This app is based on the [NestJs In Practice Course](https://angular-university.io/course/nestjs-course). Additional resources can be found in Angular University [Youtube Channel](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A).
 
-![NestJs Course](https://angular-university.s3-us-west-1.amazonaws.com/course-images/nestjs-v2.png)
-
 The course can be found in [Udemy](https://www.udemy.com/course/nestjs-course/), and the repository in [Github](https://github.com/angular-university/nestjs-course.git). Credits to the author of the course, [Vasco Cavalheiro](https://twitter.com/vascocav).
 
 The contents of this app do not strictly follow the course: the original code has been extended, modified or refactored. Also, some dependencies were updated. The repository keeps the original folder structure, although I am not a fan of that.
