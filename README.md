@@ -150,7 +150,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ### Build the backend
 
-Run `npm build` to build the project. The build artifacts will be stored in the `dist/backend/` directory.
+Run `npm build` to build the project. The build artifacts will be stored in the `backend/dist/` directory.
 
 ### Testing the backend
 

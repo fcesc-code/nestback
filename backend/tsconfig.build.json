@@ -2,7 +2,7 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "skipLibCheck": true,
-    "outDir": "dist/backend"
+    "outDir": "./dist"
   },
   "exclude": ["node_modules", "dist", "test", "**/*spec.ts"]
 }
