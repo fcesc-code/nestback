@@ -27,7 +27,6 @@
     "body-parser": "^1.19.1",
     "core-js": "^3.20.3",
     "cross-env": "^7.0.3",
-    "dotenv": "^14.3.2",
     "express": "^4.17.2",
     "moment": "^2.29.1",
     "reflect-metadata": "^0.1.13",
