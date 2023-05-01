@@ -59,7 +59,7 @@
     "karma-jasmine-html-reporter": "~1.7.0",
     "lighthouse": "^9.2.0",
     "protractor": "^7.0.0",
-    "supertest": "^6.2.2",
+    "supertest": "^6.3.3",
     "ts-node": "^10.9.1",
     "tsc-watch": "^4.6.0",
     "tsconfig-paths": "^3.12.0",
