@@ -34,7 +34,7 @@
     "cross-env": "^7.0.3",
     "dotenv": "^14.3.2",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.0.2",
+    "mongoose": "^6.4.6",
     "npm-run-all": "^4.1.5",
     "password-hash-and-salt": "^0.1.4",
     "reflect-metadata": "^0.1.13",
