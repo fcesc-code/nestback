@@ -57,7 +57,7 @@
     "karma-coverage-istanbul-reporter": "^3.0.3",
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
-    "lighthouse": "^9.6.8",
+    "lighthouse": "^10.2.0",
     "protractor": "^7.0.0",
     "supertest": "^6.3.3",
     "ts-node": "^10.9.1",
